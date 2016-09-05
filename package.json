@@ -1,0 +1,15 @@
+{
+  "name": "marathon-wrapper",
+  "version": "1.0.0",
+  "description": "A node wrapper for the marathon api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TR tr@mcalexander.me",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
